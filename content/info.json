@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Produtos de Alta Qualidade"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Embalagem discreta. Privacidade garantida"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Trabalhamos com cartões de crédito e PIX"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Frete Grátis acima de R$ 150"
   }
 }
