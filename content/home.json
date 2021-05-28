@@ -19,10 +19,19 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
+      "shuffle": false,
+      "collection_id": "60b11e0c29a83117064fb441:categories:Moda Sensual:/moda-sensual",
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60b1217029a83117064fb7e6:categories:Cosméticos:/cosmeticos",
+      "sort": "lowest_price"
     },
     {
       "type": "page-title",
