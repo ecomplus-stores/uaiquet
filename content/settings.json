@@ -1,24 +1,24 @@
 {
-  "store_id": 2595,
-  "name": "uaiquet",
   "domain": "uaiquet.netlify.app",
-  "short_name": "uaiquet",
-  "description": "uaiquet",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/uaiquet",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "uaiquet",
+  "short_name": "uaiquet",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
-  "repository": "ecomplus-stores/uaiquet"
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 2595,
+  "description": "uaiquet",
+  "large_icon": "/img/large-icon.png"
 }
