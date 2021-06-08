@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": "Frete Grátis em compras acima de R$ 150",
-    "link": ""
+    "link": "",
+    "background": "#fefbfb"
   },
   "contacts_stripe": {
     "pages": [
