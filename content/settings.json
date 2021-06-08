@@ -1,9 +1,9 @@
 {
   "domain": "uaiquet.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#080808",
+  "primary_color": "#000000",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cosmo",
     "custom": "clean-white"
   },
   "bg_color": "#ffffff",
