@@ -1,7 +1,7 @@
 {
   "domain": "uaiquet.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#080808",
   "theme": {
     "bootswatch": "_",
     "custom": "clean-white"
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/logo.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#da226c",
   "icon": "/img/uploads/logo.png",
   "store_id": 2595,
   "description": "uaiquet",
