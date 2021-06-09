@@ -29,6 +29,31 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 20,
+      "page": 1,
+      "collection_id": "60b1218929a83117064fb7fe:categories:Vibradores:/vibradores",
+      "sort": "lowest_price",
+      "title": "Vibradores em Oferta"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60b243ad29a8311706507241:categories:Fantasias Sensuais:/fantasias-sensuais",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "60b121c229a83117064fb836:categories:Sado/Fetiche:/sadofetiche",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": "60b11e0c29a83117064fb441:categories:Moda Sensual:/moda-sensual",
       "limit": 12,
       "page": 1,
