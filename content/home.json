@@ -71,11 +71,15 @@
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2021-06-08T13:50:56.154Z",
-      "end": "2021-06-08T13:50:56.172Z",
+      "end": "2021-06-11T02:41:04.468Z",
       "offers": [
         "60b127fc29a83117064fbdb1",
-        "60b1285929a83117064fbe00"
-      ]
+        "60b1285929a83117064fbe00",
+        "60b1285929a83117064fbe00",
+        "60b12d4d29a83117064fc301",
+        "60b1438e29a83117064fdd96"
+      ],
+      "notes": "Promoções por tempo limitado!"
     },
     {
       "type": "responsive-banner",
