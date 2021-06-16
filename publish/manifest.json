@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1992e2f132b1e3b9a175850e2aca3e7a.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.7f4a1af79a285016becbc03a71db557f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7b6424c72a3068852b2546991c9eae0c.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3365485c1bde7bbddc75c62b805386cc.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b478bc9dddea4388f6e4accd995025bb.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Uai que T",
+  "short_name": "uaiquet",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Uai Que Tesão | Sex Shop Online\nBem-vindo (a) a UaiqueT, somos uma loja de sex shop online e temos a missão de ajudar você a sentir muito prazer e também dar prazer ao seu parceiro(a). Conosco o autoconhecimento e o aprofundar nas relações íntimas acontece de maneira agradável e criativa e sempre divertida.",
+  "background_color": "#ffffff",
+  "theme_color": "#080808"
+}
